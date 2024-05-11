@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Redux + Router + update + videos + leran
+# React + TypeScript + Vite + Redux + Router + update + videos + leran + create
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
